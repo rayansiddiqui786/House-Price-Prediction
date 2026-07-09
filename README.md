@@ -1,5 +1,11 @@
 # House Price Prediction
 
+## Internship Details
+
+- **Intern Name:** Rayan Siddiqui
+- **Intern ID:** CITS3410
+- **Company:** CODTECH IT SOLUTIONS
+
 ## Overview
 This project predicts house prices using a Machine Learning model built with Python and Scikit-learn. It provides a simple Flask web application where users can enter house details and receive a predicted price.
 
